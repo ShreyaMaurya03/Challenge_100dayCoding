@@ -12,3 +12,4 @@ D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0
 D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.pdb
 D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.genruntimeconfig.cache
 D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\ref\PracticeQuestions.dll
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.sourcelink.json
