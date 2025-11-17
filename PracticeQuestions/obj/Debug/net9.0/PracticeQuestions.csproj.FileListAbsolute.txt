@@ -1,0 +1,14 @@
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\bin\Debug\net9.0\PracticeQuestions.exe
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\bin\Debug\net9.0\PracticeQuestions.deps.json
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\bin\Debug\net9.0\PracticeQuestions.runtimeconfig.json
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\bin\Debug\net9.0\PracticeQuestions.dll
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\bin\Debug\net9.0\PracticeQuestions.pdb
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.AssemblyInfoInputs.cache
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.AssemblyInfo.cs
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.csproj.CoreCompileInputs.cache
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.dll
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\refint\PracticeQuestions.dll
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.pdb
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\PracticeQuestions.genruntimeconfig.cache
+D:\Angular\PracticeQuestion\PracticeQuestions\PracticeQuestions\obj\Debug\net9.0\ref\PracticeQuestions.dll
