@@ -21,6 +21,39 @@ namespace PracticeQuestions
 
             return new string(c);
         }
+
+
+        public string NonRepeatedCharacter()
+        {
+            Dictionary<char, int> charCount = new Dictionary<char, int>();
+
+            string input = "swiss";
+
+            char[] characters = input.ToCharArray();
+            foreach (char c in characters)
+            {
+                if (charCount.ContainsKey(c))
+                {
+                    charCount[c]++;
+                }
+                else
+                {
+                    charCount[c] = 1;
+                }
+            }
+
+            foreach (char c in characters)
+            {
+                if (charCount[c] == 1)
+                {
+                    return c.ToString();
+                }
+            }
+
+            return string.Empty;
+
+        }
+    }
     }
 
-}
+

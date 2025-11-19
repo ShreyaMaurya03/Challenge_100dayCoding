@@ -9,3 +9,4 @@ car.TestCar();
 
 ReverseString reverseString = new ReverseString();
 Console.WriteLine(reverseString.Reverse("Shreya"));
+Console.WriteLine(reverseString.NonRepeatedCharacter());
